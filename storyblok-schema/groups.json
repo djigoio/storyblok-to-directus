@@ -1,0 +1,58 @@
+[
+  {
+    "name": "App Blocks",
+    "id": 1000,
+    "uuid": "fb0ff39f-5863-59fd-9d63-63f57cec4b41",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Block Children",
+    "id": 1001,
+    "uuid": "64c2e8bc-3537-52cc-9e38-24c8ef0217f8",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Blocks",
+    "id": 1002,
+    "uuid": "b272ad6e-c540-5c35-b82f-ab85080a4884",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Entities",
+    "id": 1003,
+    "uuid": "a62b208b-7956-50b3-a27c-239124b109a7",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Global",
+    "id": 1004,
+    "uuid": "4369060a-6d1f-5a05-bdf8-c051d508c820",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "House Blocks",
+    "id": 1005,
+    "uuid": "6c1cd0b7-826a-556c-a8e7-1a7fef642b83",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Pages",
+    "id": 1006,
+    "uuid": "da1684c0-dd09-55a8-838e-6281fcf559e1",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Season Page Blocks",
+    "id": 1007,
+    "uuid": "13277cdb-0a33-59e3-b500-e1e6f145f535",
+    "parent_id": null,
+    "parent_uuid": null
+  }
+]

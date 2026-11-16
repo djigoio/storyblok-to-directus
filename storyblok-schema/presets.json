@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1111,
+    "name": "Season 2",
+    "preset": {
+      "_uid": "12871f30-965c-56f6-b29a-b71aab87cd83",
+      "hide": false,
+      "image": {
+        "id": 1135,
+        "alt": "",
+        "name": "",
+        "focus": "",
+        "title": "",
+        "source": "",
+        "filename": "https://a.storyblok.com/f/<SPACE_ID>/780x628/placeholder/preset-image.png",
+        "copyright": "",
+        "fieldtype": "asset",
+        "meta_data": {
+          "size": "780x628"
+        },
+        "is_external_url": false
+      },
+      "theme": "dark",
+      "headline": {
+        "type": "doc",
+        "attrs": {
+          "backgroundColor": null
+        },
+        "content": [
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2,
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "Beispiel-Überschrift:",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": "#FF6F08"
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "text": " Platzhaltertext für die Demo.",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "image_lg": {
+        "id": 1136,
+        "alt": "",
+        "name": "",
+        "focus": "",
+        "title": "",
+        "source": "",
+        "filename": "https://a.storyblok.com/f/<SPACE_ID>/1108x622/placeholder/preset-image-lg.png",
+        "copyright": "",
+        "fieldtype": "asset",
+        "meta_data": {
+          "alt": "",
+          "size": "1108x622",
+          "title": "",
+          "source": "",
+          "copyright": ""
+        },
+        "is_external_url": false
+      },
+      "component": "season_pass_block",
+      "override_theme_background": "var(--season-background-dark)"
+    },
+    "component_id": 1110,
+    "space_id": "<SPACE_ID>",
+    "created_at": "2026-01-01T00:00:00.000Z",
+    "updated_at": "2026-01-01T00:00:00.000Z",
+    "image": "https://a.storyblok.com/f/<SPACE_ID>/780x628/placeholder/preset-image.png",
+    "color": "",
+    "icon": "",
+    "description": "",
+    "space_environment_id": null
+  }
+]
